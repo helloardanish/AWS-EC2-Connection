@@ -1,4 +1,4 @@
-# RDP-EC2-Connection
+# AWS-EC2-Connection
 
 ## Step 1 : Go to EC2 homepage [here](https://us-east-1.console.aws.amazon.com/ec2/home)
 
